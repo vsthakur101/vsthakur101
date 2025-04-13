@@ -1,9 +1,22 @@
-- 👋 Hi, I’m VIDHAY SAGAR THAKUR
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Node.JS
-- 📫 How to reach me vsthakur.it0@gmail.com
+# 👋 Hi, I'm Vidhya Sagar
 
-<!---
-vsthakur101/vsthakur101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧑‍💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer
+
+![Profile Views](https://komarev.com/ghpvc/?username=vsthakur101&style=flat-square)
+
+---
+
+🔭 I’m currently working on building modern web interfaces  
+🌱 I’m learning advanced React, TypeScript, and design systems  
+💡 Passionate about clean code, performance & great user experience  
+⚡ I enjoy turning complex problems into simple, beautiful UIs
+
+---
+
+### 🛠️ My Tech Stack
+
+```js
+Languages:    JavaScript | TypeScript | HTML5 | CSS3 | SCSS
+Frameworks:   React | Next.js | Angular | Tailwind CSS | Bootstrap
+Tools:        Git | Figma | Postman | Vite | Webpack | VS Code
+Testing:      Jest | React Testing Library | Cypress
