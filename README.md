@@ -10,7 +10,7 @@
 
 ---
 
-🧑‍💻 I’m a frontend developer with 3+ years of experience building scalable, user-friendly applications  
+🧑‍💻 I’m a frontend developer with 5+ years of experience building scalable, user-friendly applications  
 ⚙️ Strong in JavaScript, React, Vue, TypeScript, and Web3  
 📦 Experienced in Micro-Frontend architecture & modern dev tools  
 📈 Built high-performance platforms used by 1000s of users  
