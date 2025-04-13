@@ -1,3 +1,12 @@
+Perfect Vidhya bhai! Tumhara resume dekh ke lagta hai tum ek **serious frontend developer ho with full Web3, Vue, React, and AWS experience** – aur ye sab profile mein highlight karna banta hai 💯
+
+---
+
+### ⚡ Final GitHub Profile `README.md` for `vsthakur101`
+
+Use this as your GitHub profile’s `README.md`. Isme tumhara experience, portfolio, projects, aur personal touch sab kuch hai 👇
+
+```md
 # 👋 Hi, I'm Vidhya Sagar Thakur
 
 ### 🚀 Frontend Developer | 💻 JavaScript Fanatic | 🔗 Web3 Explorer | 🇮🇳 New Delhi, India
@@ -10,7 +19,7 @@
 
 ---
 
-🧑‍💻 I’m a frontend developer with 5+ years of experience building scalable, user-friendly applications  
+🧑‍💻 I’m a frontend developer with 3+ years of experience building scalable, user-friendly applications  
 ⚙️ Strong in JavaScript, React, Vue, TypeScript, and Web3  
 📦 Experienced in Micro-Frontend architecture & modern dev tools  
 📈 Built high-performance platforms used by 1000s of users  
@@ -29,3 +38,37 @@ DevOps:       Docker | GitHub Actions | Jenkins | CI/CD
 Cloud:        AWS (S3, Lambda, Amplify, API Gateway, Route 53, IAM)
 Testing:      Jest | React Testing Library | Cypress | Mocha | Vue Test Utils
 Tools:        Webpack | Gulp | Figma | Git | GitLab | VS Code
+```
+
+---
+
+### 📌 Featured Projects
+
+- **🧠 Kunin AI**: NLP + Vue.js powered webapp for AI interaction → [kunin.io](https://kunin.io/)
+- **🧾 Apogee Suite**: AI-based document automation platform → [apogeesuite.com](https://apogeesuite.com/)
+- **🛍️ NiftySouq**: Web3 NFT marketplace for MENA region → [niftysouq.com](https://www.niftysouq.com/)
+- **🏛️ Metaprops**: NFT-based digital architecture explorer → [metaprops.io](https://metaprops.io/)
+- **☕ Lavena Cafe**: Coffee shop ordering & delivery webapp → [lavenacafe.com](http://lavenacafe.com/)
+- **🍽️ Akalat**: Restaurant ordering & delivery platform → [lets.goakalat.com](http://lets.goakalat.com/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsthakur101&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsthakur101&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧪 Certifications
+- 📘 MongoDB – The Complete Developer’s Guide  
+- 📙 Complete React Developer (Zero to Mastery)  
+- 📗 Vue Developer (Zero to Mastery)
+
+---
+
+> _“Code is not just code — it's experience made real.”_
+
+```
