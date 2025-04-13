@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Vidhya Sagar
+# 👋 Hey, I'm Vidhya Sagar
 
-### 🧑‍💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer
+### 🚀 Frontend Developer | 🎨 UI/UX Craftsman | 💻 JavaScript Enthusiast
 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-informational?style=flat&logo=internet-explorer&logoColor=white&color=blue)](https://vsprofile.netlify.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=vsthakur101&style=flat-square)
 
 ---
 
-🔭 I’m currently working on building modern web interfaces  
-🌱 I’m learning advanced React, TypeScript, and design systems  
-💡 Passionate about clean code, performance & great user experience  
-⚡ I enjoy turning complex problems into simple, beautiful UIs
+👨‍💻 I’m passionate about creating user-friendly, responsive web applications  
+🎯 I love solving UI challenges using **JavaScript** & modern frontend tech  
+🌱 Currently learning advanced React & building portfolio projects  
+🧩 Exploring frontend architecture and performance optimization  
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 ```js
-Languages:    JavaScript | TypeScript | HTML5 | CSS3 | SCSS
-Frameworks:   React | Next.js | Angular | Tailwind CSS | Bootstrap
-Tools:        Git | Figma | Postman | Vite | Webpack | VS Code
-Testing:      Jest | React Testing Library | Cypress
+Languages:    JavaScript | HTML5 | CSS3
+Frameworks:   React | Next.js | Tailwind CSS | Bootstrap
+Tools:        Git | Netlify | Figma | VS Code | Postman
