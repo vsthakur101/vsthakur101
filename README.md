@@ -1,12 +1,3 @@
-Perfect Vidhya bhai! Tumhara resume dekh ke lagta hai tum ek **serious frontend developer ho with full Web3, Vue, React, and AWS experience** – aur ye sab profile mein highlight karna banta hai 💯
-
----
-
-### ⚡ Final GitHub Profile `README.md` for `vsthakur101`
-
-Use this as your GitHub profile’s `README.md`. Isme tumhara experience, portfolio, projects, aur personal touch sab kuch hai 👇
-
-```md
 # 👋 Hi, I'm Vidhya Sagar Thakur
 
 ### 🚀 Frontend Developer | 💻 JavaScript Fanatic | 🔗 Web3 Explorer | 🇮🇳 New Delhi, India
@@ -70,5 +61,3 @@ Tools:        Webpack | Gulp | Figma | Git | GitLab | VS Code
 ---
 
 > _“Code is not just code — it's experience made real.”_
-
-```
