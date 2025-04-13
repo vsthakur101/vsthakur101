@@ -40,7 +40,6 @@ Tools:        Webpack | Gulp | Figma | Git | GitLab | VS Code
 - **🛍️ NiftySouq**: Web3 NFT marketplace for MENA region → [niftysouq.com](https://www.niftysouq.com/)
 - **🏛️ Metaprops**: NFT-based digital architecture explorer → [metaprops.io](https://metaprops.io/)
 - **☕ Lavena Cafe**: Coffee shop ordering & delivery webapp → [lavenacafe.com](http://lavenacafe.com/)
-- **🍽️ Akalat**: Restaurant ordering & delivery platform → [lets.goakalat.com](http://lets.goakalat.com/)
 
 ---
 
