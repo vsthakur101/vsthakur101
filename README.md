@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | 💻 JavaScript Fanatic | 🔗 Web3 Explorer | 🇮🇳 New Delhi, India
 
-[![Portfolio](Portfolio)](https://www.vidhyasagarthakur.engineer/)
+[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-vsprofile.netlify.app-blue)](https://www.vidhyasagarthakur.engineer/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhya-sagar-thakur-7a0743173/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/vsthakur101)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/vst8745/)
